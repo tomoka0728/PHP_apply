@@ -1,0 +1,21 @@
+table,
+tr,
+td,
+th {
+	border: 1px solid rgb(255, 255, 255);
+}
+
+.col-12 .database {
+	border: 1px solid rgb(255, 255, 255);
+    background: #dddddd;
+    padding: 20px;
+    text-align: left;
+	width: 100%;
+}
+
+.col-12 .database td {
+	max-width: 300px;
+	max-height: 200px;
+	overflow: hidden;
+	text-align: center;
+}

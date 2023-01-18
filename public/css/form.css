@@ -1,0 +1,38 @@
+table {
+    border-collapse: collapse;
+    margin:auto
+  }
+
+  ::-webkit-input-placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+   
+  ::-moz-placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+   
+  :-ms-input-placeholder {
+    color: #ccc;
+    opacity: 1;
+  }
+   
+  .form-table {
+    width: 80%;
+  }
+   
+  .form-table th,
+  .form-table td {
+    background: #ffffff;
+    border: 1px solid #615353;
+    padding: 20px;
+    text-align: left;
+  }
+   
+  .form-table th {
+    background: #ffffff;
+    position: relative;
+    text-align: left;
+    width: 200PX;
+  }
